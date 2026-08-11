@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方神话巨构世界视觉设计器"
+  short_description: "设计东方神话巨构场景、反推参考图并生成电影级生图提示词"
+  default_prompt: "使用 $oriental-celestial-world-designer 为我设计一个克制、真实且具有文明级尺度的东方云上天宫场景。"
