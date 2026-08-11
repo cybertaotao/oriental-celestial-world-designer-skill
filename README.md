@@ -4,6 +4,46 @@
 
 把场景设计成“真实古代建筑文明被放大到神话尺度”，而不是把“宫殿、云、古装人物”拼成一张普通仙侠图。
 
+## 视觉示例
+
+以下示例展示本 Skill 追求的空间尺度、真实材质、超广角纵深、云海层次与克制东方神性。图片均保留在仓库的 [`example/`](example/) 目录中。
+
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_02.png" alt="东方云上天宫视觉示例 01" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_04.png" alt="东方云上天宫视觉示例 02" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_06.png" alt="东方云上天宫视觉示例 03" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_07.png" alt="东方云上天宫视觉示例 04" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_09.png" alt="东方云上天宫视觉示例 05" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%8810%E6%97%A5%2022_28_11.png" alt="东方云上天宫视觉示例 06" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2015_54_35.png" alt="东方云上天宫视觉示例 07" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2015_54_43.png" alt="东方云上天宫视觉示例 08" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2015_54_45.png" alt="东方云上天宫视觉示例 09" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2015_54_47.png" alt="东方云上天宫视觉示例 10" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2015_54_49.png" alt="东方云上天宫视觉示例 11" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_09_35.png" alt="东方云上天宫视觉示例 12" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_30_04.png" alt="东方云上天宫视觉示例 13" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_31_22.png" alt="东方云上天宫视觉示例 14" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_36_01.png" alt="东方云上天宫视觉示例 15" width="49%" />
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_44_10.png" alt="东方云上天宫视觉示例 16" width="49%" />
+</p>
+<p align="center">
+  <img src="example/ChatGPT%20Image%202026%E5%B9%B48%E6%9C%888%E6%97%A5%2016_45_57.png" alt="东方云上天宫视觉示例 17" width="49%" />
+</p>
+
 ## 它解决什么问题
 
 这个 Skill 面向“东方神话超大规模建筑文明”的视觉设计。它会先解决镜头、空间、尺度和透视，再补全材质、云海、光影与提示词；因此输出不只是形容词堆叠，而是一套可执行的场景方案。
