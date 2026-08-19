@@ -1,4 +1,4 @@
 interface:
   display_name: "东方神话巨构世界视觉设计器"
   short_description: "设计东方神话巨构、玉石镜像、传统浮雕与月轮天宫提示词"
-  default_prompt: "使用 $oriental-celestial-world-designer 为我设计一个具有唐宋巨构、玉石镜像、薄雾层次和微型长袍旅人的东方云上天宫场景。"
+  default_prompt: "使用 $oriental-celestial-world-designer 为我设计一个 21:9、4K / 8K、18–22mm 横向超广角的东方云上天宫：以象牙白风化石柱和白玉或玄玉镜面空间为主，减少暗朱红木构但强化其东方深浮雕，并让巨大月轮、月洞、奇峰或古松与建筑主轴建立关系。"
